@@ -5,6 +5,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 import matplotlib.pyplot as plt
 import seaborn as sns
+#Here in place of data we can use any dataset.
 data = {
     'overs': [10, 15, 20, 25, 30, 35, 40, 45, 50],
     'wickets': [1, 2, 3, 3, 4, 5, 6, 7, 8],
