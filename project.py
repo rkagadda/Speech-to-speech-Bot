@@ -3,8 +3,7 @@ import speech_recognition as sr
 import pyttsx3
 import google.generativeai as genai 
 
-# Replace this with your actual Google API key
-GOOGLE_API_KEY = "AIzaSyDH5hByP9Okxe8IpO7UYHqImsH24M"
+GOOGLE_API_KEY = "Google_api_key"
 
 # Initialize recognizer and text-to-speech engine
 recognizer = sr.Recognizer()
